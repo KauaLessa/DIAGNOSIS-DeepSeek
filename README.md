@@ -4,6 +4,13 @@ Projeto educativo desenvolvido para simulação de diagnóstico médico via inte
 
 ---
 
+## EQUIPE:
+1. Kauã Lessa Lima dos Santos
+2. Luís Felipe Barros Pacheco
+3. Diêgo de Araujo Correia
+
+---
+
 ## PRÉ-REQUISITOS E INSTALAÇÃO
 
 * Python 3.6 ou superior
