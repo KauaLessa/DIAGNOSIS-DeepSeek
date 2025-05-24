@@ -1,0 +1,77 @@
+{
+    "enxaqueca": {
+        "sintomas": ["dor", "cabeça", "náusea", "fotofobia", "tontura", "aura", "sensibilidade"],
+        "sintomas_necessarios": 4,
+        "emergencia": false
+    },
+    "angina": {
+        "sintomas": ["dor", "peito", "falta", "ar", "sudorese", "palpitação", "irradiação", "braço"],
+        "sintomas_necessarios": 3,
+        "emergencia": true
+    },
+    "gripe": {
+        "sintomas": ["febre", "tosse", "coriza", "dor corpo", "calafrio", "dor garganta", "fraqueza"],
+        "sintomas_necessarios": 3,
+        "emergencia": false
+    },
+    "apendicite": {
+        "sintomas": ["dor", "barriga", "direita", "febre", "náusea", "vômito", "perda apetite"],
+        "sintomas_necessarios": 4,
+        "emergencia": true
+    },
+    "diabetes": {
+        "sintomas": ["sede", "urinar", "fome", "visão", "embaçada", "fadiga", "perda peso"],
+        "sintomas_necessarios": 3,
+        "emergencia": false
+    },
+    "pneumonia": {
+        "sintomas": ["tosse", "catarro", "febre", "calafrio", "dor tórax", "falta ar", "suor"],
+        "sintomas_necessarios": 4,
+        "emergencia": true
+    },
+    "infecção urinária": {
+        "sintomas": ["dor", "urinar", "urgência", "urina escura", "febre", "sangue urina"],
+        "sintomas_necessarios": 3,
+        "emergencia": false
+    },
+    "hipertensão": {
+        "sintomas": ["dor cabeça", "tontura", "visão turva", "sangue nasal", "palpitação", "fadiga"],
+        "sintomas_necessarios": 3,
+        "emergencia": true
+    },
+    "asma": {
+        "sintomas": ["falta ar", "chiado", "tosse", "aperto peito", "ansiedade", "suor"],
+        "sintomas_necessarios": 3,
+        "emergencia": true
+    },
+    "gastroenterite": {
+        "sintomas": ["diarreia", "vômito", "náusea", "dor barriga", "febre", "desidratação"],
+        "sintomas_necessarios": 3,
+        "emergencia": false
+    },
+    "infarto": {
+        "sintomas": ["dor peito", "suor frio", "palidez", "falta ar", "náusea", "dor braço"],
+        "sintomas_necessarios": 4,
+        "emergencia": true
+    },
+    "avc": {
+        "sintomas": ["face", "descaída", "braço fraco", "fala arrastada", "visão dupla", "dor cabeça"],
+        "sintomas_necessarios": 3,
+        "emergencia": true
+    },
+    "meningite": {
+        "sintomas": ["febre", "rigidez nuca", "dor cabeça", "vômito", "fotofobia", "manchas pele"],
+        "sintomas_necessarios": 4,
+        "emergencia": true
+    },
+    "dengue": {
+        "sintomas": ["febre", "dor corpo", "manchas pele", "dor olhos", "vômito", "sangramento"],
+        "sintomas_necessarios": 4,
+        "emergencia": true
+    },
+    "depressão": {
+        "sintomas": ["tristeza", "insônia", "fadiga", "perda prazer", "apetite", "concentração"],
+        "sintomas_necessarios": 4,
+        "emergencia": false
+    }
+}
